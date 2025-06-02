@@ -1,0 +1,40 @@
+.bg-white {
+  background-color: white;
+  border: 5px ridge black;
+}
+
+.bg-black {
+  background-color: black;
+  border: 5px ridge black;
+}
+
+.bg-yellow {
+  background-color: yellow;
+  border: 5px ridge black;
+}
+
+.bg-red {
+  background-color: red;
+  border: 5px ridge black;
+}
+
+.bg-blue {
+  background-color: blue;
+  border: 5px ridge black;
+}
+
+table {
+  width: 90vw;
+  height: 50vh;
+  rotate: 90deg;
+  padding: 100px;
+  transform: rotateX(180deg);
+}
+
+tr {
+  width: 25%;
+}
+
+th {
+  height: 10%;
+}
