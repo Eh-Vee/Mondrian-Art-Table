@@ -1,3 +1,7 @@
+h1 {
+    text-align: center;
+}
+
 .bg-white {
   background-color: white;
   border: 5px ridge black;
@@ -28,7 +32,11 @@ table {
   height: 50vh;
   rotate: 90deg;
   padding: 100px;
+  padding-bottom: 50px;
   transform: rotateX(180deg);
+  position: absolute;
+  display: flexbox;
+
 }
 
 tr {
