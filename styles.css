@@ -1,5 +1,5 @@
 h1 {
-    text-align: center;
+  text-align: center;
 }
 
 .bg-white {
@@ -36,7 +36,6 @@ table {
   transform: rotateX(180deg);
   position: absolute;
   display: flexbox;
-
 }
 
 tr {
